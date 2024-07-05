@@ -21,3 +21,9 @@ p {
     border-radius: 8px;
     padding: 8px;
 }
+
+.list {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
